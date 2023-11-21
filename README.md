@@ -11,5 +11,7 @@ What happened to specific types of crime?​​
 What happened to differently populated areas?
 
 Datasets
-Crime Data API | [CrimeoMeter: Access to detailed crime data and statistics.](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi)
-Available APIs (census.gov): Socioeconomic datasets including employment rates.
+Crime Data: ​
+https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend​
+Census Data
+https://www.census.gov/data/developers/guidance/api-user-guide.html
