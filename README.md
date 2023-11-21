@@ -5,6 +5,7 @@ This project aims to determine crime rate hotspots through geospatial analysis b
 
 Research Questions
 Geospatial Analysis of Crime Hotspots:
+Crime and Covid -
 What happened to crime across the country?​​
 What happened to specific types of crime?​​
 What happened to differently populated areas?
